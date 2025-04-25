@@ -1,5 +1,15 @@
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "start": "vite preview"
+{
+  "name": "awarepa-platform",
+  "version": "1.0.0",
+  "description": "Awarepa Matchmaking Platform",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^5.0.0"
+  }
 }
